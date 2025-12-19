@@ -3,7 +3,7 @@
 I'm a recent cybersecurity graduate looking to break into the field! Passionate about security challenges, have fun with digital forensics, interested in deepening my knowledge. Always eager to learn, collaborate, and want to connect with fellow enthusiasts!
 
 <p align="center">
-<a href="mailto:doc561933@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:yura661tao@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
