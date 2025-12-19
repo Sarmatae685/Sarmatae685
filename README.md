@@ -23,7 +23,7 @@ I'm a recent cybersecurity graduate looking to break into the field! Passionate 
 </h3>
 
 
-<h3> 🔍 Digital Forensics & Analysis: &nbsp;
+<h3> 🔍 Digital Forensics: &nbsp;
 <img src="https://img.shields.io/badge/Autopsy-8B0000?style=for-the-badge&logo=autopsy&logoColor=white" />
 <img src="https://img.shields.io/badge/Volatility-00599C?style=for-the-badge&logo=volatility&logoColor=white" />
 <img src="https://img.shields.io/badge/Sleuth_Kit-4B0082?style=for-the-badge&logo=sleuthkit&logoColor=white" />
@@ -37,6 +37,7 @@ I'm a recent cybersecurity graduate looking to break into the field! Passionate 
 <img src="https://img.shields.io/badge/GDB-00599C?style=for-the-badge&logo=gnu&logoColor=white" />
 <img src="https://img.shields.io/badge/GEF-FF6B6B?style=for-the-badge&logo=gef&logoColor=white" />
 <img src="https://img.shields.io/badge/apktool-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </h3>
 
 
