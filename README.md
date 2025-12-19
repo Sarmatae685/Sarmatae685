@@ -72,7 +72,7 @@ I'm a recent cybersecurity graduate looking to break into the field! Passionate 
 
 ## 🏆 Best Project
 
-### 🎯 [PicoCTF Write-ups Platform](your-writeups-link)
+### 🎯 [PicoCTF Write-ups Platform](https://sarmatae685.github.io/PicoCTF-write-ups/)
 **210+ solved tasks | 71 detailed technical write-ups | 6 theory notes**
 
 🔗 **View Write-ups → [*click*](https://sarmatae685.github.io/PicoCTF-write-ups/)** | **GitHub → [*click*](https://github.com/Sarmatae685/PicoCTF-write-ups)**
